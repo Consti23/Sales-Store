@@ -14,6 +14,8 @@ Order Quantity: The quantity of the product ordered.
 Unit Selling Price: The selling price per unit of the product.
 Unit Cost: The cost per unit of the product.
 The dataset seems to track the sales orders, including details about the orders, customers, products, and logistics like shipping and delivery. The information is useful for analyzing sales performance, customer behavior, product popularity, and logistical efficiency across different channels and regions. ​
+![grafik](https://github.com/user-attachments/assets/7e37a186-6627-4b83-936a-1a01675a2af0)
+
 
 # Analyse
 Based on the deeper analysis of the "Sales Analysis Report" dataset, here are some insights:
